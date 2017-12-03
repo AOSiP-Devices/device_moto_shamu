@@ -1,12 +1,12 @@
 [
   {
-    "repository" : "DirtyUnicorns/android_kernel_moto_shamu",
+    "repository" : "LineageOS/android_kernel_moto_shamu",
     "target_path": "kernel/moto/shamu",
-    "branch"     : "o8x"
+    "branch"     : "lineage-15.0"
   },
   {
-    "repository" : "DirtyUnicorns/android_vendor_motorola",
+    "repository" : "TheMuppets/proprietary_vendor_motorola",
     "target_path": "vendor/motorola",
-    "branch"     : "o8x"
+    "branch"     : "lineage-15.0"
   }
 ]
