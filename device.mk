@@ -244,6 +244,10 @@ PRODUCT_PACKAGES += \
     mm-jpeg-interface-test \
     mm-qcamera-app
 
+#Snap Camera
+PRODUCT_PACKAGES += \
+    Snap
+
 PRODUCT_PACKAGES += \
     libion
 
