@@ -1,0 +1,15 @@
+[
+  {
+    "repository" : "GZR-Kernels/kernel_moto_shamu",
+    "target_path": "kernel/moto/shamu"
+  },
+  {
+    "repository" : "BigTopKrazies/proprietary_vendor_motorola",
+    "target_path": "vendor/moto"
+  },
+  {
+    "repository" : "AOSiP-Devices/platform_hardware_qcom_msm8x84",
+    "target_path": "hardware/qcom/msm8x84",
+    "branch"     : "oreo-mr1"
+ }
+]

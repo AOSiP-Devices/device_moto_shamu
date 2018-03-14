@@ -24,6 +24,8 @@ ENABLE_CPUSETS := true
 
 TARGET_NO_BOOTLOADER := true
 
+TARGET_COMPILE_WITH_MSM_KERNEL := true
+
 # Inline kernel building
 TARGET_KERNEL_CONFIG := shamu_defconfig
 TARGET_KERNEL_SOURCE := kernel/moto/shamu
